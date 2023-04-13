@@ -1,4 +1,4 @@
-Usage
+DDR SDRAM
 =====
 
 .. _installation:
