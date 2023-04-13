@@ -1,4 +1,4 @@
-API
+COMMUNICATION PROTOCOLS
 ===
 
 .. autosummary::
