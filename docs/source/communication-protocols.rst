@@ -2,6 +2,7 @@ COMMUNICATION PROTOCOLS
 ===
 
 .. autosummary::
-   :toctree: generated
+   :toctree:
 
-   lumache
+   i2c
+   spi
